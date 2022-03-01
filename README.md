@@ -23,7 +23,7 @@
     </div><br>
     
        
-    ![Snake animation](https://github.com/iBENASSI91/iBENASSI91/blob/output/github-contribution-grid-snake.svg)
+ 
     
     
    #Apaixonado por tecnologia, Buscando conhecimentos para o tao sonhado Job Front-End.
