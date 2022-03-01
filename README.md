@@ -1,8 +1,8 @@
 ### Ola! Eu sou Ivan Benassi 🤓
 
-<a href="https//.github.com/iBENASSI91">
+
 <a href="https://www.linkedin.com/in/ivan-benassi/" target="_blank"></a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-        badge&logo=linkedin&logoColor=white">
-    <a href=" " target="_blank"></a><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href=" " target="_blank"></a><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 
    <div>
         <a href="https://beacons.ai/iBENASSI91"></a>
