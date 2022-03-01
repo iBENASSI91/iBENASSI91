@@ -1,6 +1,6 @@
 ### Ola! Eu sou Ivan Benassi 🤓
 
-
+<a href="https//.github.com/iBENASSI91"><p>
 <a href="https://www.linkedin.com/in/ivan-benassi/" target="_blank"></a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-        badge&logo=linkedin&logoColor=white">
 <a href=" " target="_blank"></a><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 
@@ -20,10 +20,11 @@
     <img  align="center" alt="Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
     <img  align="center" alt="Bootstrap" height="30" width="40" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
     <img  align="center" alt="Angular" height="30" width="40" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-    </div><br>
+    </div>
+   
+   
+![Snake animation](https://github.com/iBENASSI91/iBENASSI91/blob/output/github-contribution-grid-snake.svg)
     
-       
-   ![Snake animation](https://github.com/iBENASSI91/iBENASSI91/blob/output/github-contribution-grid-snake.svg)
+ 
     
     
-   #Apaixonado por tecnologia, Buscando conhecimentos para o tao sonhado Job Front-End.
