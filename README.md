@@ -1,4 +1,8 @@
-### Ola! Eu sou Ivan Benassi 🤓
+### Ola! 
+👨‍💻 Front- End em Formação.
+💻 Estudando novas tecnologias
+🧠 Amor por inteligência artificial
+🎨 Designer 
 
 <a href="https//.github.com/iBENASSI91"><p>
 <a href="https://www.linkedin.com/in/ivan-benassi/" target="_blank"></a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-        badge&logo=linkedin&logoColor=white">
