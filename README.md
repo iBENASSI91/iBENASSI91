@@ -1,34 +1,62 @@
-### Ola! 
-👨‍💻 Front- End em Formação.
-💻 Estudando novas tecnologias
-🧠 Amor por inteligência artificial
-🎨 Designer 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<a href="https//.github.com/iBENASSI91"><p>
-<a href="https://www.linkedin.com/in/ivan-benassi/" target="_blank"></a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-        badge&logo=linkedin&logoColor=white">
-<a href=" " target="_blank"></a><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 
-   <div>
-        <a href="https://beacons.ai/iBENASSI91"></a>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iBENASSI91&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBENASSI91&layout=compact&langs_count=16&theme=dracula"/>
-    </div>
-    
- ## Tecnologias que eu uso no meu dia
+## Sobre mim
 
+<p align="left"> 
+
+ <p>🦄  Ola! Iva Benassi</p>
+ <p>👨‍💻 Front-End / Web Designer em Formação.</p>  
+ <p>💻 Estudando novas tecnologias</p>  
+ <p>🧠 Amor por inteligência artificial</p>  
+ <p>🎨 Designer </p>
+
+</p>
+
+<p align="left">
   
-  <div style="display: inline_block"><br>
-    <img  align="center" alt="Ivan-Html" height="30" width="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img  align="center" alt="Ivan-CSS3" height="30" width="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-    <img  align="center" alt="Ivan-JavaScript" height="30" width="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img  align="center" alt="Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
-    <img  align="center" alt="Bootstrap" height="30" width="40" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
-    <img  align="center" alt="Angular" height="30" width="40" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-    </div>
-   
-   
-![Snake animation](https://github.com/iBENASSI91/iBENASSI91/blob/output/github-contribution-grid-snake.svg)
-    
+## Minhas Skills
+
+**Aplicações e dados**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+
+
+**Utilidades**
+
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+
+</p>
+
+<p align="left">
+  💼 Ferramentas: *DevOps*
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+💼 Ferramentas de Desenvolvimento
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+
+
+</p>
+
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://www.linkedin.com/in/ivan-benassi/" alt="LinkedIn"/></a>
  
-    
-    
+</p>
