@@ -1,34 +1,59 @@
-### Ola! 
-👨‍💻 Front- End em Formação.
-💻 Estudando novas tecnologias
-🧠 Amor por inteligência artificial
-🎨 Designer 
+## Olá, meu nome é {Ivan Benassi}!
 
-<a href="https//.github.com/iBENASSI91"><p>
-<a href="https://www.linkedin.com/in/ivan-benassi/" target="_blank"></a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-        badge&logo=linkedin&logoColor=white">
-<a href=" " target="_blank"></a><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+### ⚙️ GitHub Analytics
 
-   <div>
-        <a href="https://beacons.ai/iBENASSI91"></a>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iBENASSI91&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBENASSI91&layout=compact&langs_count=16&theme=dracula"/>
-    </div>
-    
- ## Tecnologias que eu uso no meu dia
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
-  
-  <div style="display: inline_block"><br>
-    <img  align="center" alt="Ivan-Html" height="30" width="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img  align="center" alt="Ivan-CSS3" height="30" width="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-    <img  align="center" alt="Ivan-JavaScript" height="30" width="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img  align="center" alt="Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
-    <img  align="center" alt="Bootstrap" height="30" width="40" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
-    <img  align="center" alt="Angular" height="30" width="40" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-    </div>
-   
-   
-![Snake animation](https://github.com/iBENASSI91/iBENASSI91/blob/output/github-contribution-grid-snake.svg)
-    
- 
-    
-    
+--- 
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=iuricode&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
